@@ -162,6 +162,15 @@ input, select, textarea {
 		border-radius: 8px;
 	}
 
+	/* Section dividers */
+	section {
+		border-bottom: 4px solid #000000;
+	}
+
+	section:last-child {
+		border-bottom: none;
+	}
+
 	body, input, select, textarea {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1rem;
