@@ -6,9 +6,13 @@ Welcome to my personal website! This site showcases my professional journey, ski
 
 This website is built using the Story template from HTML5 UP, customized to reflect my personal brand and professional profile.
 
-## Contact
+## Sections
 
-Feel free to reach out through the contact form on the website or connect with me on social media.
+- **Education**: K. N. Toosi University of Technology - Bachelor of Electrical Engineering
+- **Technical Skills**: Programming languages, frameworks, databases, and developer tools
+- **Experience**: Lead Data Scientist at Jabama, Senior Data Scientist at Taaghche, Junior Data Scientist at KeyLead Health
+- **Projects**: Query Craft and Bookworm projects showcasing technical expertise
+- **Languages**: Persian (Native) and English (Professional proficiency)
 
 ---
 
