@@ -163,12 +163,8 @@ input, select, textarea {
 	}
 
 	/* Section dividers */
-	section {
+	section:not(footer) {
 		border-bottom: 4px solid #000000;
-	}
-
-	section:last-child {
-		border-bottom: none;
 	}
 
 	body, input, select, textarea {
